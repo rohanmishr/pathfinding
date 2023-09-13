@@ -6,6 +6,7 @@ class Room {
     }
 
     // Type list
+    // dev - developer room
 }
 
 var rooms = [];
